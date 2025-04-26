@@ -4,6 +4,7 @@ import { MdCancel } from 'react-icons/md'
 import './Navbar.css'
 import { ShopContext } from '../ShopContext/ShopContext'
 import { Link } from 'react-router-dom'
+import pngtree from '../../assets/pngtree.png';
 
 const Navbar = () => {
 
@@ -36,7 +37,7 @@ const Navbar = () => {
     <div>
       <div className="navbar">
         <div className="logo">
-            <h2>LOGO HERE</h2>
+            <img src={pngtree} alt='Logo Image'/>
         </div>
         <div className="search">
             <BiSearch className='search_icon'/>
