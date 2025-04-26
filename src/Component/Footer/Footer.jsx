@@ -3,6 +3,7 @@ import { BsInstagram, BsTwitterX } from 'react-icons/bs'
 import { FaFacebook } from 'react-icons/fa'
 import './Footer.css'
 
+
 const Footer = () => {
   return (
     <div>
