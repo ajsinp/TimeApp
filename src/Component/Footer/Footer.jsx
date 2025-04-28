@@ -19,7 +19,7 @@ const Footer = () => {
           </div>
         </div>
        <div className="copy">
-        <p>Copyright © LOGOHERE 2024. All rights reserved</p>
+        <p>Copyright © LOGOHERE 2025. All rights reserved</p>
        </div>
       </div>
     </div>
